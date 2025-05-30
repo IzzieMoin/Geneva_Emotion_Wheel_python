@@ -14,7 +14,7 @@ This implementation is based on the following academic work:
 > [Read the original paper](https://www.unige.ch/cisa/files/6914/6720/3988/2005_Scherer_SSI.pdf)
 
 > **The GRID meets the Wheel: Assessing emotional feeling via self-report**  
-> *Scherer, K.R., Shuman, V., Fontaine, J.R.J, & Soriano, C. (2013).*
+> *Scherer, K.R., Shuman, V., Fontaine, J.R.J, & Soriano, C. (2013).
 > In Johnny R.J. Fontaine, Klaus R. Scherer & C. Soriano (Eds.), Components of Emotional Meaning: A sourcebook (pp. 281-298). Oxford: Oxford University Press.
 > [Read the original paper](https://www.researchgate.net/publication/280880696_The_GRID_meets_the_Wheel_Assessing_emotional_feeling_via_self-report)
 
@@ -30,7 +30,7 @@ This repository provides an independent implementation for the purpose of reprod
 
 If you use this implementation in your work, please cite:
 - the original authors introduced in the website above
-- the DOI of this implementation ![image](https://github.com/user-attachments/assets/0b4e5ab5-064f-4114-8d3a-f3d4d915a3f4)*
+- the DOI of this implementation ![image](https://github.com/user-attachments/assets/0b4e5ab5-064f-4114-8d3a-f3d4d915a3f4)
 
 ---
 
