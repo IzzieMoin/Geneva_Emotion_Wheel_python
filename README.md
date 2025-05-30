@@ -30,7 +30,7 @@ This repository provides an independent implementation for the purpose of reprod
 
 If you use this implementation in your work, please cite:
 - the original authors introduced in the website above
-- the DOI of this implementation ![image](https://github.com/user-attachments/assets/0b4e5ab5-064f-4114-8d3a-f3d4d915a3f4)
+- the DOI of this implementation ![image](https://github.com/user-attachments/assets/0b4e5ab5-064f-4114-8d3a-f3d4d915a3f4) (CITATION.cff)
 
 ---
 
